@@ -3,7 +3,7 @@
 #### Note préalable : 
 Dans ce document le terme prompt est équivalent à instruction en français. 
 
-Ce document est un complément de le formation Lexiad sur le prompting. Il contient des exemples d'instructions accessibles directement ou sous forme de lien. 
+Ce document est un complément de le format [Lexiad](https://www.lexiad.com) sur le prompting. Il contient des exemples d'instructions accessibles directement ou sous forme de lien. 
 Ces exemples suivent le plan et la décomposition des différentes familles d'instruction les couramment utilisés. 
 Ils viennent en complément de la fiche synthétique fournie. 
 
