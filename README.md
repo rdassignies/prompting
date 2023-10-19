@@ -17,9 +17,9 @@ Pour un aperçu rapide (en français), vous pouvez consulter :  https://www.lega
 
 ## Les exemples fournis 
 
-Les exemples sont basés sur des instructions rédigées dans [chatGPT](https://chat.openai.com/auth/login) ou le [playground d'OpenAI](https://platform.openai.com/playground). 
+Les exemples sont fondés sur des instructions rédigées dans [chatGPT](https://chat.openai.com/auth/login) ou le [playground d'OpenAI](https://platform.openai.com/playground). 
 La comparaison entre les différents modèles accessibles via une API ou une interface utilisateur n'est pas repris dans ce document. 
 
-<img width="1055" alt="image" src="https://github.com/rdassignies/prompting/assets/93215594/199c5a5b-1798-4b91-b57c-3b572ecb0e42">
+# La typologie des prompts 
 
-# 
+
