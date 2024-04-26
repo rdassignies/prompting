@@ -5,7 +5,7 @@
 Ce document est un complément de la formation [Lexiad](https://www.lexiad.com) sur le prompting. Il contient des exemples de prompts accessibles directement ou sous forme de liens. 
 Ils viennent en complément de la fiche synthétique fournie. 
 
-Pour un aperçu rapide sur le prompting (en français), vous pouvez consulter :  https://www.legalgpt.eu/comprendre/lart-du-prompting-un-apercu/ 
+Pour un aperçu rapide sur le prompting (en français), vous pouvez consulter :  https://dassignies.law/blog/lart-du-prompting-un-apercu/ 
 
 ## Prompting ? 
 
